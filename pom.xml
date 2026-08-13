@@ -183,7 +183,7 @@
         <httpcomponents-core.version>4.4.16</httpcomponents-core.version>
 
         <httpcomponents5.version>5.4.4</httpcomponents5.version>
-        <httpcomponents5.core.version>5.3.4</httpcomponents5.core.version>
+        <httpcomponents5.core.version>5.4.3</httpcomponents5.core.version>
 
         <reactor-core.version>3.6.9</reactor-core.version>
 
